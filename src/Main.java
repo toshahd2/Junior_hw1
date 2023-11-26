@@ -5,7 +5,6 @@ import java.util.Random;
 import java.util.stream.Collectors;
 
 import static java.lang.Math.pow;
-import static java.util.stream.Collectors.groupingBy;
 
 
 public class Main {
